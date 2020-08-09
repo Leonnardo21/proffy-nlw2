@@ -9,6 +9,7 @@
     "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback"
   },
   "devDependencies": {
+    "cors": "^2.8.5",
     "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.7"
   },

@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="background-color: #8257E5; padding: 30px;">
     <img src="./layout/logo.svg" width="300px">
 </h1>
 
